@@ -6,4 +6,4 @@ MeshMapper for Android is a portal to meshmapper.net, providing access to the wa
 | | |
 |---|---|
 | ![](screenshots/1.png) | ![](screenshots/2.png) |
-| ![](sceenshots/3.png) | ![](sceenshots/4.png) |
+| ![](screenshots/3.png) | ![](screenshots/4.png) |
